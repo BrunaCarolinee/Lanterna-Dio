@@ -3,8 +3,11 @@
 Desafio Dio: Construindo um aplicativo usando o sensor de movimento com React Native
 
 
-![(1)](https://user-images.githubusercontent.com/86806648/172621360-94ef0a10-17df-4103-84da-41b1d8c9e346.jpeg)
-![2](https://user-images.githubusercontent.com/86806648/172621440-29c2c619-e270-4891-9451-a85c9965354e.jpeg)
+![3](https://user-images.githubusercontent.com/86806648/172622476-e081d77e-93c6-48c0-874b-988da247ee0b.jpeg)
+
+
+
+![(1)](https://user-images.githubusercontent.com/86806648/172622420-6974b492-700b-4b67-a9a4-3daa8121e0c3.jpeg)
 
 # Conteúdo
 - Libs react-native-shake e react-native-torch
